@@ -1,5 +1,6 @@
 import setuptools
 
 setuptools.setup(
-   install_requires = ['tensorflow']
+   include_package_data=True,
+   install_requires=['tensorflow']
 )

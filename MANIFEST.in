@@ -1,1 +1,1 @@
-graft src/store0/lstm2
+include src/store0/lstm2/*
