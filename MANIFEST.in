@@ -1,3 +1,3 @@
 include src/store0/lstm2/*
 include src/store0/lstm2/assets/*
-include src/store0/lstm/variables/*
+include src/store0/lstm2/variables/*
